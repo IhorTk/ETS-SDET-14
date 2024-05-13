@@ -1,9 +1,5 @@
 package Hausaufgabe;
 
-import java.time.LocalDate;
-import java.util.Date;
-import java.util.GregorianCalendar;
-
 public class jfgdjks {
 //    public static void main(String[] args) {
 ////        System.out.println(Math.E);

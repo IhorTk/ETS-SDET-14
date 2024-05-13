@@ -1,7 +1,5 @@
 package Hausaufgabe;
 
-import java.util.List;
-
 public class EmloyeeMain {
     public static void main(String[] args) {
         //создаем объекты

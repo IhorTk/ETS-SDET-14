@@ -1,6 +1,5 @@
 package Day_57_OOP_GeneralRewiev_3;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class ClassRoom78 implements IStudent78{

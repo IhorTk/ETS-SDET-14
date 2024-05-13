@@ -1,11 +1,6 @@
 package Day_57_OOP_GeneralRewiev_3.Day_57_MapProject;
 
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.Map;
 import java.util.*;
-
-import java.util.TreeMap;
 
 public class StudentMainMap {
     public static void main(String[] args) {

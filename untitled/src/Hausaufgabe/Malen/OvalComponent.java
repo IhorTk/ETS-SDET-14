@@ -1,7 +1,7 @@
 package Hausaufgabe.Malen;
 
 import javax.swing.*;
-import java.awt.Graphics;
+import java.awt.*;
 
 public class OvalComponent extends JComponent {
     @Override

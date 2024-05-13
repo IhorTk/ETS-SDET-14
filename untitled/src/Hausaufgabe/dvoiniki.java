@@ -1,8 +1,5 @@
 package Hausaufgabe;
 
-import java.util.Arrays;
-import java.util.ArrayList;
-
 public class dvoiniki {
     public static void main(String[] args) {
         int[] stat = {1,2,3,4,5,6,7,8,2,3,2,6,4,5,8};

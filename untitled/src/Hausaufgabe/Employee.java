@@ -1,7 +1,6 @@
 package Hausaufgabe;
 
 import java.time.LocalDate;
-import java.util.Date;
 
 class Employee {
    //переменные экземпляра
