@@ -1,6 +1,11 @@
-lögkhölköln
-fghmölfmnölkfd
-fgmömnöfhmnölmnt1111111111111111
+
+
+
+
 gmnöLHn,ö
 lkjfdglkjdsglksdfjgkjdfkljglkdjhnlkghnljkfgnbhl
 kjnvrneiuvneiruvn kdj s
+=======
+fgmömnöfhmnölmn22222222222222222222222
+gmnöLHn,ö
+>>>>>>> feature-branch
